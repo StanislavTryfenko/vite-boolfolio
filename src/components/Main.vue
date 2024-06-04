@@ -1,12 +1,21 @@
 <script>
 import { state } from '../assets/state.js'
-import ProjectCard from './ProjectCard.vue'
+import MainJumbotron from './main-partials/MainJumbotron.vue';
+import MainAbout from './main-partials/MainAbout.vue';
+import MainSkills from './main-partials/MainSkills.vue';
+import MainProjects from './main-partials/MainProjects.vue';
+import MainContact from './main-partials/MainContact.vue';
+
 
 
 export default {
     name: "Main",
     components: {
-        ProjectCard
+        MainJumbotron,
+        MainAbout,
+        MainSkills,
+        MainProjects,
+        MainContact,
     },
     data() {
         return {
@@ -17,11 +26,12 @@ export default {
 </script>
 
 <template>
-
     <main>
-
-        <ProjectCard />
-
+        <MainJumbotron />
+        <MainAbout />
+        <MainSkills />
+        <MainProjects />
+        <MainContact />
     </main>
 
 </template>
