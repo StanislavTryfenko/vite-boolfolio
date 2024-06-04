@@ -10,9 +10,9 @@ export default {
 }
 </script>
 
-<template>
+<template class="">
 
-    <section id="about" class="text-gray-600 body-font pt-32">
+    <section id="about" class="text-gray-600 body-font mt-32">
         <h2 class="text-white text-center">About</h2>
         <div class="w-4/6 mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
             <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
