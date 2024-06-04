@@ -55,8 +55,8 @@ export default {
 </script>
 
 <template>
-    <section id="jumbotron" class="text-gray-600 body-font pt-32 min-h-screen">
-        <div class="container w-4/6 mx-auto flex px-5 py-24 md:flex-row flex-col ">
+    <section id="jumbotron" class="text-gray-600 body-font pt-40 min-h-screen">
+        <div class="container w-4/6 mx-auto flex px-5 md:flex-row flex-col ">
             <div class="lg:flex-grow md:w-1/2  flex flex-col md:items-start md:text-left mb-16 md:mb-0 mt-16">
                 <div class="title-font sm:text-4xl text-8xl mb-4 font-extrabold text-white space-y-4">
                     <h1>Hi,</h1>

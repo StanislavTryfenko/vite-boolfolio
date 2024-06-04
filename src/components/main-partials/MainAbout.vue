@@ -12,8 +12,8 @@ export default {
 
 <template class="">
 
-    <section id="about" class="text-gray-600 body-font mt-32">
-        <h2 class="text-white text-center">About</h2>
+    <section id="about" class="text-gray-600 body-font ">
+        <h2 class="text-white text-center pt-40">About</h2>
         <div class="w-4/6 mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
             <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
                 <img class="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/400x600">

@@ -13,7 +13,7 @@ export default {
 
 <template>
     
-    <router-view>
+    <router-view id="projects" class="pt-40 h-screen">
     </router-view>
 
 </template>
