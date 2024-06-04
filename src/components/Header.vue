@@ -25,7 +25,7 @@ export default {
         <h1 class="text-3xl text-white">Logo</h1>
 
         <nav class="flex gap-4">
-            <a href="#home" class="text-white">Home</a>
+            <a href="#jumbotron" class="text-white">Home</a>
             <a href="#about" class="text-white">About</a>
             <a href="#skills" class="text-white">Skills</a>
             <a href="#projects" class="text-white">Projects</a>
